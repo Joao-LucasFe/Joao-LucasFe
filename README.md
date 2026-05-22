@@ -9,6 +9,8 @@
 
 <img src="./assets/undertale_heart.svg" width="120" alt="Undertale SOUL Heart" />
 
+<br><br><br>
+
 <!-- ═══════════ ANIMATED TYPING HEADER ═══════════ -->
 
 <a href="https://git.io/typing-svg">
