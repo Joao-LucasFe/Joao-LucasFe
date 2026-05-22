@@ -7,7 +7,7 @@
 
 <!-- ═══════════ UNDERTALE HEART ═══════════ -->
 
-<img src="./assets/undertale_heart.png" width="120" alt="Undertale SOUL Heart" />
+<img src="./assets/undertale_heart.svg" width="120" alt="Undertale SOUL Heart" />
 
 <!-- ═══════════ ANIMATED TYPING HEADER ═══════════ -->
 
@@ -299,7 +299,7 @@
 
 <div align="center">
 
-<img src="./assets/sans.png" width="150" alt="Sans - Undertale" />
+<img src="./assets/sans.svg" width="150" alt="Sans - Undertale" />
 
 <br>
 
