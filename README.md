@@ -123,37 +123,37 @@
 </h2>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  📜  QUEST LOG                                                    SAVE ❤   ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  ⚔️  MAIN QUESTS                                                             ║
-║  ──────────────────────────────────────────────                              ║
-║                                                                              ║
-║  [████████████░] Front-End Developer @ Startup Pr3VIA   (Abr/2026 → Now)    ║
-║  │  ✦ Desenvolvimento de sistemas com React + Tailwind CSS                  ║
-║  │  ✦ Criação de interfaces funcionais e integração de componentes          ║
-║  │  ✦ Otimização da plataforma com foco em performance e UI                 ║
-║  │                                                                           ║
-║  [██████████████] Tesoureiro Geral - Grêmio IFMA       (Jan/2025 → Jan/2026)║
-║  │  ✦ Gestão financeira completa e controle de fluxo de caixa              ║
-║  │  ✦ Elaboração de orçamentos para projetos estudantis                     ║
-║  │                                                                           ║
-║  🎓  EDUCATION PATH                                                         ║
-║  ──────────────────────────────────────────────                              ║
-║                                                                              ║
-║  [████░░░░░░░░░░] Eng. Mecânica — UFTM                 (Mar/2026 → ...)    ║
-║  [██████████████] Téc. Administração — IFMA             (Fev/2023 → Dez/2025)║
-║                                                                              ║
-║  🏆  ACHIEVEMENTS UNLOCKED                                                   ║
-║  ──────────────────────────────────────────────                              ║
-║                                                                              ║
-║  ★ Startup Pr3VIA ─── Desenvolvimento e produção de sistema web             ║
-║  ★ Certificação BFD ─ Front-End React (200h) — Softex                       ║
-║  ★ JIFMA ──────────── 🥈 Tênis de Mesa │ 🥉 Vôlei                          ║
-║  ★ CNH Categoria B ── Habilitação (Fev/2026)                                ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
++----------------------------------------------------------------------------+
+|  QUEST LOG                                                     SAVE <3     |
++----------------------------------------------------------------------------+
+|                                                                            |
+|  // MAIN QUESTS                                                            |
+|  ------------------------------------------                                |
+|                                                                            |
+|  [###########--] Front-End Dev @ Startup Pr3VIA    (Abr/2026 -> Now)       |
+|  |  * Desenvolvimento de sistemas com React + Tailwind CSS                 |
+|  |  * Criacao de interfaces funcionais e integracao de componentes         |
+|  |  * Otimizacao da plataforma com foco em performance e UI                |
+|  |                                                                         |
+|  [#############] Tesoureiro Geral - Gremio IFMA    (Jan/2025 -> Jan/2026)  |
+|  |  * Gestao financeira completa e controle de fluxo de caixa              |
+|  |  * Elaboracao de orcamentos para projetos estudantis                    |
+|  |                                                                         |
+|  // EDUCATION PATH                                                         |
+|  ------------------------------------------                                |
+|                                                                            |
+|  [####---------] Eng. Mecanica -- UFTM             (Mar/2026 -> ...)       |
+|  [#############] Tec. Administracao -- IFMA         (Fev/2023 -> Dez/2025) |
+|                                                                            |
+|  // ACHIEVEMENTS UNLOCKED                                                  |
+|  ------------------------------------------                                |
+|                                                                            |
+|  [*] Startup Pr3VIA --- Desenvolvimento e producao de sistema web          |
+|  [*] Certificacao BFD - Front-End React (200h) -- Softex                   |
+|  [*] JIFMA ----------- Prata: Tenis de Mesa | Bronze: Volei                |
+|  [*] CNH Categoria B - Habilitacao (Fev/2026)                              |
+|                                                                            |
++----------------------------------------------------------------------------+
 ```
 
 <br>
