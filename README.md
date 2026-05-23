@@ -214,7 +214,7 @@
 
 <!-- Top Languages -->
 <a href="https://github.com/Joao-LucasFe">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Joao-LucasFe&layout=compact&theme=radical&hide_border=true&title_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joao-LucasFe&theme=radical" alt="Top Languages" />
 </a>
 
 </div>
