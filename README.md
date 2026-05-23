@@ -200,7 +200,7 @@
 
 <!-- Pixel Profile Stats -->
 <a href="https://github.com/Joao-LucasFe">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=Joao-LucasFe&screen_effect=true&theme=road_trip" alt="GitHub Pixel Stats" />
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=Joao-LucasFe&theme=road-trip" alt="GitHub Pixel Stats" />
 </a>
 
 <br><br>
@@ -214,7 +214,7 @@
 
 <!-- Top Languages -->
 <a href="https://github.com/Joao-LucasFe">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-LucasFe&layout=compact&theme=radical&hide_border=true&title_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Joao-LucasFe&layout=compact&theme=radical&hide_border=true&title_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </a>
 
 </div>
